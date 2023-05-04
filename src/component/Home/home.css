@@ -1,0 +1,22 @@
+#page {
+    /* background-image:url(../../../public/images/bg.jpg); */
+    background: #ffffff url(../../../public/images/bg.jpg) top center repeat;
+    width: 100%;
+    display: table;
+    /*padding-left:50px;
+	padding-right:50px;*/
+    height: 100%;
+}
+
+
+
+#main {
+    width: 962px;
+    text-align: center;
+}
+
+.wrapper {
+    width: 960px;
+    margin: auto;
+	
+}

@@ -1,0 +1,23 @@
+.pagenotfound{
+    width: 100vw;
+    height: 90vh;
+}
+.pagenotfound>h4,h2{
+   
+   text-align: center;
+   margin: 15px auto;
+   font-size: 1.5vmax;
+}
+.pagenotfound>h4{
+    background-color: rgb(73, 35, 243);
+    width: 150px;
+    border-radius: 10px;
+    padding: 10px;
+    cursor: pointer;
+    transition: all .2s;
+}
+.pagenotfound>h4:hover{
+    background-color: rgb(248, 87, 12);
+    cursor: pointer;
+}
+

@@ -1,0 +1,22 @@
+#header {
+    width: 950px;
+    margin: 0 auto;
+    padding-left:20px;
+	text-align:center;	
+    background: url(../../../../public/images/header.jpg) no-repeat;
+    height: 151px;
+}  
+.contact{
+	/*top: 65px;
+	
+	text-align:right;
+	position: absolute;*/
+	margin-top:75px;
+   margin-right: 20px;
+	float:right;
+    text-align: left;
+	width:200px;
+	color:#FFFFFF;
+	z-index:2;
+	font:bold 13px/17px Arial;
+}

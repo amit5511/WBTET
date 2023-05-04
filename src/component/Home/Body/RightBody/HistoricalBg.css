@@ -1,0 +1,60 @@
+.pclass
+{
+    text-align:left;
+    font-size:2;
+    color:Black;
+    
+    padding-left:20px;
+}
+.divimg
+{
+    float:right;
+    height:125px;
+    width:120px;
+    padding-left:10px;
+}
+.chartimg
+{
+  height:200px;
+  width:570px;
+  padding-left:15px;  
+}
+.hisimg
+{
+    width:110px;
+    height:90px;
+}
+.table_font
+{
+    color:#FFFFFF;
+    font-size:2;
+    font-weight:bold;
+}
+.table_cont
+{
+    color:#000000;
+    font-size:2;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.button
+{
+    background: rgb(51,153,255); 
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='rgb(51,153,255)',endColorstr='#188BC0',GradientType=0);
+    padding: 2px 7px;
+    color: #FFFFFF;
+    font-family: Segoe UI, 'Helvetica Neue' ,sans-serif;
+    font-size: 12px;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border: 1px solid rgb(51,153,255);
+}
+.more{
+    color: blue;
+    cursor: pointer;
+}
+
+.home_footerproblem{
+    margin-bottom: 20%;
+}
