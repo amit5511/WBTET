@@ -85,7 +85,7 @@ const HistoricalBg = () => {
           orientation in all these respects. A three-tier and time bound Orientation
           Programme could however, be undertaken in 1994 - 1995 after the Primary
           Board was set up in 1990.</p>
-        <div class="hisimg"><img src="images/careers2.jpg" width="105" height="88"/></div>
+        <div class="hisimg"><img alt="img" src="images/careers2.jpg" width="105" height="88"/></div>
         <p class="pclass">The
           West Bengal Board of Primary Education since its establishment in 1990
           undertook all these activities and by 19931994 Guide-books in different

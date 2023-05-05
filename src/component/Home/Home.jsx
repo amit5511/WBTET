@@ -2,7 +2,7 @@ import React from 'react'
 import Header from './Header/Header'
 import './home.css'
 import { Body } from './Body/Body'
-import Footer from '../footer/Footer'
+
 const Home = () => {
     return <>
         <div id="page">

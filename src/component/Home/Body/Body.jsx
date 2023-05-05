@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import BodyLeft from './BodyLeft/BodyLeft'
 import "./Body.css"
 
-import Footer from '../../footer/Footer'
+import Footer from '../footer/Footer'
 import Networking from './RightBody/Networking'
 import Vision from './RightBody/Vision'
 import HomePage from './RightBody/HomePage'

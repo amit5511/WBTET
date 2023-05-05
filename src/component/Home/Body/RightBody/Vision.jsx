@@ -16,7 +16,7 @@ const Vision = () => {
           universal retention and</p>
         <p class="pclass">(iii)
           universal quality achievement in the primary education sector.</p>
-        <div class="divimg"><img src="images/vision.jpg" width="120" height="119" /></div><br />
+        <div class="divimg"><img alt="img" src="images/vision.jpg" width="120" height="119" /></div><br />
 
         <p class="pclass">Obviously,
           to reach these the Board as per the powers and functions vested in it
@@ -24,7 +24,7 @@ const Vision = () => {
           has successfully made so far the following strategic interventions that
           are logically coherent.</p><br />
         <p class="pclass">[ The 5 basic Functions as per Act of 1973 ]</p><br /><br /><br /><br /><br />
-        <div class="chartimg"><img src="images/vis.gif" width="500" height="191" /></div>
+        <div class="chartimg"><img alt="img"src="images/vis.gif" width="500" height="191" /></div>
 
 
       </div>
