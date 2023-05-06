@@ -16,7 +16,7 @@ const PageNotFound = () => {
       <br />
       <p style={{ 'font-size': '1.6rem' }} class="sub-header text-block-narrow">This is not a fault, just an accident that was not intentional.</p>
       <br />
-      <h4 onClick={() => Navigate('/')}><b>GO Back</b></h4>
+      <h4 onClick={() => Navigate(-1)}><b>GO Back</b></h4>
 
     </div>
   </>

@@ -93,19 +93,25 @@
 	
 	border-radius: 10px;
 	min-height:20px;
-	overflow:visible;
+	max-height: 500px;
+	overflow-y:auto;
+	
 }
 .left-bot-li ul{
 	list-style:none;
+	
+	
 }
 .left-bot-li li{
 	padding-left:15px;
 	padding-bottom:10px;
+	
 }
 .left-bot-li a
 {   text-decoration: none;
     font:normal 13px Arial, Helvetica, sans-serif;
 	color:#ffffff;
+	
 }
 .left-bot-li a:link{
 	color:#ffffff;

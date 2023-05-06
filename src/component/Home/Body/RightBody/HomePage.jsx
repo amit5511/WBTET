@@ -38,7 +38,7 @@ const HomePage = () => {
                         </div>
                         <div>
                             <img alt="img" src="images/new.gif" />
-                            <h5><b><Link to="https://wbbprimary.org/prim/" target="_blank">Click Here </Link>TET-2014 PASS CERTIFICATE FOR THE TET-2014 QUALIFIED AND TRAINED CANDIDATES<br />
+                            <h5><b><Link to="/prim">Click Here </Link>TET-2014 PASS CERTIFICATE FOR THE TET-2014 QUALIFIED AND TRAINED CANDIDATES<br />
                             </b></h5>
 
                         </div>

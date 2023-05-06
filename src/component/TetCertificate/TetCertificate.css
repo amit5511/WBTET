@@ -1,0 +1,68 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700);
+body { font-family: 'Open Sans', sans-serif;}
+.f-bold { font-weight:700;}
+.f-semi-bold { font-weight:600;}
+.f-normal { font-weight:normal;}
+
+
+.show{display:block !important;}
+			.recent-post-ul {
+				font-size:12px; 
+				color: #303231; 
+				list-style-type: none;
+			}
+			.recent-post-ul li {
+			    margin-bottom: 5px;
+			   
+			 
+                padding: auto 10px 10px 0px;
+               
+			}
+			.recent-post-ul li a {
+				font-size:14px; 
+				color: #303231;
+			}
+			.btn-section a:hover {
+				background: #f58b19;
+				color: #000;
+				text-decoration: none;
+			}
+			.home-left #text-div {
+			    height: 270px !important;
+                overflow-y:auto;
+			}
+			.home-left1 #text-div1 {
+			    height: 270px !important;
+              
+			}
+			.slimScrollDiv {
+				height: 282px !important;
+              
+			}
+			.home-left1 .slimScrollDiv {
+				height: 260px !important;
+                
+			}
+			.home-middle-ul {
+				list-style-type: none;
+				padding-left: 0;
+			}
+			.home-middle-ul li {
+				margin-bottom: 5px;
+			}
+       
+
+.home-left{
+    padding-left:22px;
+}
+
+
+
+
+
+
+
+
+
+
+            
